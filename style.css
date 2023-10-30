@@ -121,8 +121,8 @@ a {
   color: #fff;
   font-weight: normal;
   font-size: 22px;
-  text-transform: uppercase;
   background-color: transparent;
+  text-transform: uppercase;
 }
 
 .card__title {
